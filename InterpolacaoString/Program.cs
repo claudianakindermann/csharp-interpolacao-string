@@ -70,7 +70,40 @@ namespace Interpolacao
             Console.WriteLine(text.IndexOf("e"));
             Console.WriteLine(text.LastIndexOf("e")); //mostra a última posição
 
+            //Convertendo o texto para maiúsculo ou minúsculo
+            Console.WriteLine("---------------------------------------------------");
+            Console.WriteLine(text);
+            Console.WriteLine(text.ToLower());
+            Console.WriteLine(text.ToUpper());
 
+            //Inserindo conteúdo no texto
+            Console.WriteLine("---------------------------------------------------");
+            Console.WriteLine(text);
+            Console.WriteLine(text.Insert(5, "AQUI "));
+            Console.WriteLine(text.Remove(5, 5));
+            Console.WriteLine(text.Length);
+
+            //Substituindo uma string por outra - case sensitive
+            Console.WriteLine("---------------------------------------------------");
+            Console.WriteLine(text);
+            Console.WriteLine(text.Replace("texto", "código"));
+            Console.WriteLine(text.Replace("e", "W"));
+
+            //Dividindo o texto, resulta em uma lista
+            Console.WriteLine("---------------------------------------------------");
+            Console.WriteLine(text);
+            var textoDividido = text.Split(" ");
+            Console.WriteLine(textoDividido[0]);
+            Console.WriteLine(textoDividido[1]);
+            Console.WriteLine(textoDividido[2]);
+            Console.WriteLine(textoDividido[3]);
+            Console.WriteLine(textoDividido[4]);
+
+            //Remove espaços no início e no final do texto
+            Console.WriteLine("---------------------------------------------------");
+            text = " Este texto é um teste   ";
+            Console.WriteLine(text);
+            Console.WriteLine(text.Trim());
 
         }
     }
