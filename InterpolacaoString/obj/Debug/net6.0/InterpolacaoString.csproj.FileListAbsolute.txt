@@ -1,0 +1,15 @@
+C:\dev\csharp-interpolacao-string\InterpolacaoString\bin\Debug\net6.0\InterpolacaoString.exe
+C:\dev\csharp-interpolacao-string\InterpolacaoString\bin\Debug\net6.0\InterpolacaoString.deps.json
+C:\dev\csharp-interpolacao-string\InterpolacaoString\bin\Debug\net6.0\InterpolacaoString.runtimeconfig.json
+C:\dev\csharp-interpolacao-string\InterpolacaoString\bin\Debug\net6.0\InterpolacaoString.dll
+C:\dev\csharp-interpolacao-string\InterpolacaoString\bin\Debug\net6.0\InterpolacaoString.pdb
+C:\dev\csharp-interpolacao-string\InterpolacaoString\obj\Debug\net6.0\InterpolacaoString.csproj.AssemblyReference.cache
+C:\dev\csharp-interpolacao-string\InterpolacaoString\obj\Debug\net6.0\InterpolacaoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp-interpolacao-string\InterpolacaoString\obj\Debug\net6.0\InterpolacaoString.AssemblyInfoInputs.cache
+C:\dev\csharp-interpolacao-string\InterpolacaoString\obj\Debug\net6.0\InterpolacaoString.AssemblyInfo.cs
+C:\dev\csharp-interpolacao-string\InterpolacaoString\obj\Debug\net6.0\InterpolacaoString.csproj.CoreCompileInputs.cache
+C:\dev\csharp-interpolacao-string\InterpolacaoString\obj\Debug\net6.0\InterpolacaoString.dll
+C:\dev\csharp-interpolacao-string\InterpolacaoString\obj\Debug\net6.0\refint\InterpolacaoString.dll
+C:\dev\csharp-interpolacao-string\InterpolacaoString\obj\Debug\net6.0\InterpolacaoString.pdb
+C:\dev\csharp-interpolacao-string\InterpolacaoString\obj\Debug\net6.0\InterpolacaoString.genruntimeconfig.cache
+C:\dev\csharp-interpolacao-string\InterpolacaoString\obj\Debug\net6.0\ref\InterpolacaoString.dll
