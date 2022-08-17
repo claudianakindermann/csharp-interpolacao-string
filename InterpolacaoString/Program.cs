@@ -22,6 +22,8 @@ namespace Interpolacao
             Console.WriteLine("O preço do produto é {price} \n apenas na promoção");
             //Usar o @ para caracteres especiais
             Console.WriteLine(@"O preço do produto é {price} \n apenas na promoção");
+
+
         }
     }
 }
