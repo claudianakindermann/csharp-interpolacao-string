@@ -64,6 +64,12 @@ namespace Interpolacao
             Console.WriteLine(text.Equals("Este Texto é um TESTE", StringComparison.OrdinalIgnoreCase));
             Console.WriteLine(text.Equals("qualquer"));
 
+            //Obtendo a posição onde inicia o termo/palavra/char pesquisado no array
+            Console.WriteLine("---------------------------------------------------");
+            Console.WriteLine(text);
+            Console.WriteLine(text.IndexOf("e"));
+            Console.WriteLine(text.LastIndexOf("e")); //mostra a última posição
+
 
 
         }
