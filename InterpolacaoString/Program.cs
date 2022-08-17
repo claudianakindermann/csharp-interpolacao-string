@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Interpolacao
 {
@@ -104,6 +105,19 @@ namespace Interpolacao
             text = " Este texto é um teste   ";
             Console.WriteLine(text);
             Console.WriteLine(text.Trim());
+
+            //String builder - para copiar/manipular grandes textos
+            var texto = new StringBuilder();
+            texto.Append("A Itália é um país altamente desenvolvido localizado na Europa. A sua");
+            texto.Append("história é caracterizada pela união de diversos povos que habitavam a");
+            texto.Append("região na península Itálica por meio da formação de um Estado, que se");
+            texto.Append("tornou um país de grande poderio econômico e político.");
+
+            Console.WriteLine(texto);
+            texto.ToString(); //Em alguns casos será preciso converter para string para apresentar.
+            Console.WriteLine(texto);
+
+
 
         }
     }
